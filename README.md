@@ -5,4 +5,4 @@ A repository for my winter 2014 works
 
 Week 1 Passing Tests
 -------------------------
-*View tubular screenshot [source of this content](https://www.dropbox.com/s/iw45ci2a00lam18/Screenshot%202014-01-14%2001.16.31.png).*
+[View the Screenshot](https://www.dropbox.com/s/iw45ci2a00lam18/Screenshot%202014-01-14%2001.16.31.png)
